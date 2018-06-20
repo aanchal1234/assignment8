@@ -1,0 +1,9 @@
+what is time tuple
+import datetime
+print(time.asctime)
+time(time.localtime)(time.time)
+
+
+
+
+
